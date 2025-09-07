@@ -8,8 +8,9 @@ https://tug.org//texlive/acquire-iso.html
 https://tug.org/mactex/
 
 
-http://texniccenter.org/
+ERR: http://texniccenter.org/
 https://kile.sourceforge.io/
+http://pages.uoregon.edu/koch/texshop/
 https://www.xm1math.net/texmaker/
 ```
 
