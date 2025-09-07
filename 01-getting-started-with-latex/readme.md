@@ -1,3 +1,18 @@
+
+
+```
+https://miktex.org./
+https://tug.org/texlive/
+http://tug.org/texlive/acquire-netinstall
+https://tug.org//texlive/acquire-iso.html
+https://tug.org/mactex/
+
+
+http://texniccenter.org/
+https://kile.sourceforge.io/
+https://www.xm1math.net/texmaker/
+```
+
 ![alt text](image.png)
 
 ![alt text](image-1.png)
