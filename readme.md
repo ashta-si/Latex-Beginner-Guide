@@ -2,12 +2,12 @@
 
 # Chapter 1 : Getting Started with LaTeX
 
-1. [Writing our first document with tex]()
+1. [Writing our first document with tex](notes/01/01-writing-our-first-document-with-texworks.tex)
 
 # Chapter 2 : Formatting Words, Lines and Paragraphs
 
-2. [Titling your document]()
-3. [Trying out the effect of spaces line breaks and empty lines]()
+2. [Titling your document](notes/02/02-titling-your-document.tex)
+3. [Trying out the effect of spaces line breaks and empty lines](notes/03/03-trying-out-the-effect-of-spaces-line-breaks-and-empty-lines.tex)
 4. [Writing special characters in our text]()
 5. [tuning the font shape]()
 6. [switching to sans serif and to typewriter fonts]()
