@@ -35,3 +35,18 @@
 28. [quoting a scientist]()
 29. [quoting-tex-benefits]()
 30. [spacing between paragraphs instead of indentation]()
+
+# Chapter 3 
+
+31. [writing a book with chapters]()
+32. [specifying margins]()
+33. [increasing line spacing]()
+34. [examine command]()
+35. [creating a two column landscape document]()
+36. [adding a table of contents]()
+37. [shortening the table of content entries]()
+38. [customizing headers with fancyhdr package]()
+39. [inserting page breaks]()
+40. [sparing an almost empty page]()
+41. [using footnotes in text and in headings]()
+42. [redefining the footnote line]()

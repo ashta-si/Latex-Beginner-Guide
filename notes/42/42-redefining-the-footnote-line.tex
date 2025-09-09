@@ -1,0 +1,16 @@
+\documentclass[a4paper,12pt]{book}
+\usepackage[english]{babel}
+\usepackage{blindtext}
+\usepackage[a4paper,inner=1.5cm,outer=3cm,top=2cm,bottom=3cm,bindingoffset=1cm]{geometry}
+\begin{document}
+\chapter{Exploring the page layout}
+In this chapter we will study the layout of pages.
+\section{Some filler text}
+\blindtext
+\section{A lot more filler text\protect\footnote{to fill the page}}
+More dummy text \footnote{serving as a placeholder} will follow.
+\subsection{Plenty of filler text}
+\enlargethispage{\baselineskip}
+\blindtext[10]
+\renewcommand{\footnoterule} {\noindent\smash{\rule[3pt]{\textwidth}{0.4pt}}}
+\end{document}
