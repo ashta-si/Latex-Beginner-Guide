@@ -1,0 +1,148 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.9.7)  8 SEP 2025 20:27
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./19-using-microtype.tex
+(19-using-microtype.tex
+LaTeX2e <2025-06-01> patch level 1
+L3 programming layer <2025-08-13>
+
+(C:\Users\Electronics Engineer\AppData\Local\Programs\MiKTeX\tex/latex/base\art
+icle.cls
+Document Class: article 2025/01/22 v1.4n Standard LaTeX document class
+
+(C:\Users\Electronics Engineer\AppData\Local\Programs\MiKTeX\tex/latex/base\siz
+e10.clo
+File: size10.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count275
+\c@section=\count276
+\c@subsection=\count277
+\c@subsubsection=\count278
+\c@paragraph=\count279
+\c@subparagraph=\count280
+\c@figure=\count281
+\c@table=\count282
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen148
+)
+(C:\Users\Electronics Engineer\AppData\Local\Programs\MiKTeX\tex/latex/microtyp
+e\microtype.sty
+Package: microtype 2025/07/09 v3.2b Micro-typographical refinements (RS)
+
+(C:\Users\Electronics Engineer\AppData\Local\Programs\MiKTeX\tex/latex/graphics
+\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+(C:\Users\Electronics Engineer\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox
+\etoolbox.sty
+Package: etoolbox 2025/02/11 v2.5l e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count283
+)
+\MT@toks=\toks18
+\MT@tempbox=\box53
+\MT@count=\count284
+LaTeX Info: Redefining \noprotrusionifhmode on input line 1087.
+LaTeX Info: Redefining \leftprotrusion on input line 1088.
+\MT@prot@toks=\toks19
+LaTeX Info: Redefining \rightprotrusion on input line 1107.
+LaTeX Info: Redefining \textls on input line 1449.
+\MT@outer@kern=\dimen149
+LaTeX Info: Redefining \microtypecontext on input line 2053.
+LaTeX Info: Redefining \textmicrotypecontext on input line 2070.
+\MT@listname@count=\count285
+
+(C:\Users\Electronics Engineer\AppData\Local\Programs\MiKTeX\tex/latex/microtyp
+e\microtype-pdftex.def
+File: microtype-pdftex.def 2025/07/09 v3.2b Definitions specific to pdftex (RS)
+
+LaTeX Info: Redefining \lsstyle on input line 944.
+LaTeX Info: Redefining \lslig on input line 944.
+\MT@outer@space=\skip51
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+
+(C:\Users\Electronics Engineer\AppData\Local\Programs\MiKTeX\tex/latex/microtyp
+e\microtype.cfg
+File: microtype.cfg 2025/07/09 v3.2b microtype main configuration file (RS)
+)
+LaTeX Info: Redefining \microtypesetup on input line 3065.
+)
+(C:\Users\Electronics Engineer\AppData\Local\Programs\MiKTeX\tex/latex/l3backen
+d\l3backend-pdftex.def
+File: l3backend-pdftex.def 2025-06-09 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count286
+)
+No file 19-using-microtype.aux.
+\openout1 = `19-using-microtype.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Info: Redefining \microtypecontext on input line 3.
+Package microtype Info: Applying patch `item' on input line 3.
+Package microtype Info: Applying patch `toc' on input line 3.
+Package microtype Info: Applying patch `eqnum' on input line 3.
+Package microtype Info: Applying patch `footnote' on input line 3.
+Package microtype Info: Applying patch `verbatim' on input line 3.
+LaTeX Info: Redefining \microtypesetup on input line 3.
+Package microtype Info: Generating PDF output.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: Automatic font expansion enabled (level 2),
+(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
+Package microtype Info: Using default expansion set `alltext-nott'.
+Package microtype Info: Patching command `\showhyphens'.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of interword spacing.
+Package microtype Info: No adjustment of character kerning.
+
+(C:\Users\Electronics Engineer\AppData\Local\Programs\MiKTeX\tex/latex/microtyp
+e\mt-cmr.cfg
+File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
+(RS)
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 7.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 7.
+
+
+[1
+
+{C:/Users/Electronics Engineer/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map
+}] (19-using-microtype.aux)
+ ***********
+LaTeX2e <2025-06-01> patch level 1
+L3 programming layer <2025-08-13>
+ ***********
+ ) 
+Here is how much of TeX's memory you used:
+ 2738 strings out of 468132
+ 46596 string characters out of 5423396
+ 485034 words of memory out of 5000000
+ 31406 multiletter control sequences out of 15000+600000
+ 627127 words of font info for 46 fonts, out of 8000000 for 9000
+ 1142 hyphenation exceptions out of 8191
+ 42i,5n,53p,1017b,134s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/Electronics Engineer/AppData/Local/Programs/MiKTeX/fonts/type1/publ
+ic/amsfonts/cm/cmr10.pfb>
+Output written on 19-using-microtype.pdf (1 page, 15945 bytes).
+PDF statistics:
+ 11 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 6145 words of extra memory for PDF output out of 10000 (max. 10000000)
+

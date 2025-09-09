@@ -1,0 +1,115 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.9.7)  9 SEP 2025 09:11
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./30-spacing-between-paragraphs-instead-of-indentation.tex
+(30-spacing-between-paragraphs-instead-of-indentation.tex
+LaTeX2e <2025-06-01> patch level 1
+L3 programming layer <2025-08-13>
+
+(C:\Users\Electronics Engineer\AppData\Local\Programs\MiKTeX\tex/latex/base\art
+icle.cls
+Document Class: article 2025/01/22 v1.4n Standard LaTeX document class
+
+(C:\Users\Electronics Engineer\AppData\Local\Programs\MiKTeX\tex/latex/base\siz
+e10.clo
+File: size10.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count275
+\c@section=\count276
+\c@subsection=\count277
+\c@subsubsection=\count278
+\c@paragraph=\count279
+\c@subparagraph=\count280
+\c@figure=\count281
+\c@table=\count282
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen148
+)
+(C:\Users\Electronics Engineer\AppData\Local\Programs\MiKTeX\tex/latex/parskip\
+parskip.sty
+Package: parskip 2021-03-14 v2.0h non-zero parskip adjustments
+
+(C:\Users\Electronics Engineer\AppData\Local\Programs\MiKTeX\tex/latex/kvoption
+s\kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+
+(C:\Users\Electronics Engineer\AppData\Local\Programs\MiKTeX\tex/latex/graphics
+\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+(C:\Users\Electronics Engineer\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmd
+s\ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+)
+(C:\Users\Electronics Engineer\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkey
+s\kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+))
+(C:\Users\Electronics Engineer\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox
+\etoolbox.sty
+Package: etoolbox 2025/02/11 v2.5l e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count283
+))
+(C:\Users\Electronics Engineer\AppData\Local\Programs\MiKTeX\tex/latex/url\url.
+sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+(C:\Users\Electronics Engineer\AppData\Local\Programs\MiKTeX\tex/latex/l3backen
+d\l3backend-pdftex.def
+File: l3backend-pdftex.def 2025-06-09 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count284
+)
+(30-spacing-between-paragraphs-instead-of-indentation.aux)
+\openout1 = `30-spacing-between-paragraphs-instead-of-indentation.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 9.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 9.
+
+
+[1
+
+{C:/Users/Electronics Engineer/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map
+}] (30-spacing-between-paragraphs-instead-of-indentation.aux)
+ ***********
+LaTeX2e <2025-06-01> patch level 1
+L3 programming layer <2025-08-13>
+ ***********
+ ) 
+Here is how much of TeX's memory you used:
+ 1248 strings out of 468132
+ 21964 string characters out of 5423396
+ 428301 words of memory out of 5000000
+ 29919 multiletter control sequences out of 15000+600000
+ 626993 words of font info for 41 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 57i,5n,65p,563b,234s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/Electronics Engineer/AppData/Local/Programs/MiKTeX/fonts/type1/publ
+ic/amsfonts/cm/cmr10.pfb><C:/Users/Electronics Engineer/AppData/Local/Programs/
+MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on 30-spacing-between-paragraphs-instead-of-indentation.pdf (1 p
+age, 31702 bytes).
+PDF statistics:
+ 16 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
