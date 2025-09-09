@@ -36,7 +36,7 @@
 29. [quoting-tex-benefits]()
 30. [spacing between paragraphs instead of indentation]()
 
-# Chapter 3 
+# Chapter 3 : Designing Page
 
 31. [writing a book with chapters]()
 32. [specifying margins]()
@@ -50,3 +50,5 @@
 40. [sparing an almost empty page]()
 41. [using footnotes in text and in headings]()
 42. [redefining the footnote line]()
+
+# Chapter 4 : Creating List
