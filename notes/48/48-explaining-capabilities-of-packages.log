@@ -1,0 +1,160 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.9.9)  9 SEP 2025 16:33
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**48-explaining-capabilities-of-packages.tex
+(./48-explaining-capabilities-of-packages.tex
+LaTeX2e <2025-06-01> patch level 1
+L3 programming layer <2025-08-13>
+(c:/texlive/2025/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2025/01/22 v1.4n Standard LaTeX document class
+(c:/texlive/2025/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count275
+\c@section=\count276
+\c@subsection=\count277
+\c@subsubsection=\count278
+\c@paragraph=\count279
+\c@subparagraph=\count280
+\c@figure=\count281
+\c@table=\count282
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen148
+)
+(c:/texlive/2025/texmf-dist/tex/latex/layouts/layouts.sty
+Package: layouts 2009/09/02 v2.6d graphical depiction of document elements
+\l@ylen=\skip51
+\layoutsbox=\box53
+\l@youtunitlength=\skip52
+\l@youtlinethick=\skip53
+\l@youtlinethickii=\skip54
+\l@ysetupparskip=\skip55
+\l@ysetupbaselineskip=\skip56
+\l@yonem=\skip57
+\l@yonex=\skip58
+\l@ylmarg=\skip59
+\l@yrmarg=\skip60
+\l@yitmindent=\skip61
+\l@ylblwidth=\skip62
+\l@ylblsep=\skip63
+\l@ylparindent=\skip64
+\l@ytsep=\skip65
+\l@ypskip=\skip66
+\l@yptsep=\skip67
+\l@ypsep=\skip68
+\l@yitmsep=\skip69
+\l@ytok=\toks17
+\l@youtpw=\count283
+\l@youtph=\count284
+\l@youthpi=\count285
+\l@youthpii=\count286
+\l@youthpiii=\count287
+\l@youthpiv=\count288
+\l@youthpv=\count289
+\l@youthpvi=\count290
+\l@youthpvii=\count291
+\l@youtparskip=\count292
+\l@youtvpi=\count293
+\l@youtvpii=\count294
+\l@youtvpiii=\count295
+\l@youtvpiv=\count296
+\l@youtvpv=\count297
+\l@youtvpvi=\count298
+\l@youtvpvii=\count299
+\l@youthdo=\count300
+\l@youthdi=\count301
+\l@youthdii=\count302
+\l@youthdiii=\count303
+\l@youthdiv=\count304
+\l@youthdv=\count305
+\l@youthdvi=\count306
+\l@youthdvii=\count307
+\l@youtvdo=\count308
+\l@youtvdi=\count309
+\l@youtvdii=\count310
+\l@youtvdiii=\count311
+\l@youtvdiv=\count312
+\l@youtvdv=\count313
+\l@youtvdvi=\count314
+\l@youtvdvii=\count315
+\l@youtvdviii=\count316
+\l@youtxci=\count317
+\l@youtxcii=\count318
+\l@youtxciii=\count319
+\l@youtxciv=\count320
+\l@youtxcv=\count321
+\l@youtxcvi=\count322
+\l@youtyci=\count323
+\l@youtycii=\count324
+\l@youtyciii=\count325
+\l@youtyciv=\count326
+\l@youtycv=\count327
+\l@youtycvi=\count328
+\l@youtycvii=\count329
+\l@youtycviii=\count330
+\l@youtxco=\count331
+\l@youtyco=\count332
+\l@ytempdima=\skip70
+\trimedge=\skip71
+\trimtop=\skip72
+\uppermargin=\skip73
+\spinemargin=\skip74
+)
+(c:/texlive/2025/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2025-06-09 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count333
+)
+(./48-explaining-capabilities-of-packages.aux)
+\openout1 = `48-explaining-capabilities-of-packages.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+
+
+Package layouts Warning: Layout scale set to 0.5 on input line 3.
+
+
+
+[1
+
+{c:/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+(./48-explaining-capabilities-of-packages.aux)
+ ***********
+LaTeX2e <2025-06-01> patch level 1
+L3 programming layer <2025-08-13>
+ ***********
+ ) 
+Here is how much of TeX's memory you used:
+ 724 strings out of 467799
+ 12291 string characters out of 5436041
+ 443301 words of memory out of 5000000
+ 29441 multiletter control sequences out of 15000+600000
+ 627600 words of font info for 43 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 35i,10n,38p,232b,315s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/tex
+live/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2025/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb><c:/texlive/2025/texmf-dist
+/fonts/type1/public/amsfonts/latxfont/linew10.pfb>
+Output written on 48-explaining-capabilities-of-packages.pdf (1 page, 42287 byt
+es).
+PDF statistics:
+ 28 PDF objects out of 1000 (max. 8388607)
+ 16 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+

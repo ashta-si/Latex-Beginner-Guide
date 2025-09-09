@@ -52,3 +52,10 @@
 42. [redefining the footnote line]()
 
 # Chapter 4 : Creating List
+
+43. [listing latex packages]()
+44. [listing packages by topic]()
+45. [writing a step by step tutorial - enumerate]()
+46. [shrinking our tutorial]()
+47. [modifying lists using enumitem]()
+48. [explaining capabilities of packages]()
