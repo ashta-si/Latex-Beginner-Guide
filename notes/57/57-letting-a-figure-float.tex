@@ -1,0 +1,39 @@
+\documentclass[a5paper]{article}
+\usepackage[english]{babel}
+\usepackage{blindtext}
+\usepackage[demo]{graphicx}
+ \usepackage{afterpage}
+ \usepackage[section]{placeins}
+ \usepackage{capt-of}% or caption
+ \usepackage{float}
+
+\pagestyle{empty}
+\begin{document}
+\section{Including a picture}
+\blindtext
+\begin{figure}[ht]
+\centering
+\includegraphics{test}
+\caption{Test figure}
+\end{figure}
+\blindtext
+ \afterpage{\clearpage}
+
+
+ \begin{center}
+ \begin{minipage}{\linewidth}%
+ \centering%
+ \includegraphics{test}%
+ \captionof{figure}{Test figure}%
+ \captionof{figure}[short text]{long text}
+ \captionof{table}[short text]{long text}
+ \end{minipage}
+ \end{center}
+
+\begin{figure}[H]
+ \centering
+ \includegraphics{test}
+ \caption{Test figure}
+ \end{figure}
+
+\end{document}

@@ -1,0 +1,274 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.9.7)  10 SEP 2025 12:37
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./58-embedding-a-picture-within-text.tex
+(58-embedding-a-picture-within-text.tex
+LaTeX2e <2025-06-01> patch level 1
+L3 programming layer <2025-08-13>
+
+(C:\Users\Electronics Engineer\AppData\Local\Programs\MiKTeX\tex/latex/base\art
+icle.cls
+Document Class: article 2025/01/22 v1.4n Standard LaTeX document class
+
+(C:\Users\Electronics Engineer\AppData\Local\Programs\MiKTeX\tex/latex/base\siz
+e10.clo
+File: size10.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count275
+\c@section=\count276
+\c@subsection=\count277
+\c@subsubsection=\count278
+\c@paragraph=\count279
+\c@subparagraph=\count280
+\c@figure=\count281
+\c@table=\count282
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen148
+)
+(C:\Users\Electronics Engineer\AppData\Local\Programs\MiKTeX\tex/generic/babel\
+babel.sty
+Package: babel 2025/08/03 v25.12 The multilingual framework for LuaLaTeX, pdfLa
+TeX and XeLaTeX
+\babel@savecnt=\count283
+LaTeX Encoding Info:    Redeclaring text command \ij (encoding OT1) on input li
+ne 2045.
+LaTeX Encoding Info:    Redeclaring text command \IJ (encoding OT1) on input li
+ne 2047.
+LaTeX Encoding Info:    Redeclaring text command \ij (encoding T1) on input lin
+e 2049.
+LaTeX Encoding Info:    Redeclaring text command \IJ (encoding T1) on input lin
+e 2050.
+LaTeX Encoding Info:    Ignoring declaration for text command \ij (encoding ?) 
+on input line 2051.
+LaTeX Encoding Info:    Ignoring declaration for text command \IJ (encoding ?) 
+on input line 2053.
+LaTeX Encoding Info:    Ignoring declaration for text command \SS (encoding ?) 
+on input line 2078.
+\U@D=\dimen149
+\l@unhyphenated=\language79
+
+(C:\Users\Electronics Engineer\AppData\Local\Programs\MiKTeX\tex/generic/babel\
+txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count284
+
+*************************************
+* Local config file bblopts.cfg used
+*
+
+(C:\Users\Electronics Engineer\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bb
+lopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(C:\Users\Electronics Engineer\AppData\Local\Programs\MiKTeX\tex/latex/babel-en
+glish\english.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+
+(C:\Users\Electronics Engineer\AppData\Local\Programs\MiKTeX\tex/generic/babel/
+locale/en\babel-english.tex
+Package babel Info: Importing font and identification data for english
+(babel)             from babel-en.ini. Reported on input line 12.
+)
+Package babel Info: Hyphen rules for 'canadian' set to \l@english
+(babel)             (\language0). Reported on input line 102.
+Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
+(babel)             (\language73). Reported on input line 105.
+Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
+(babel)             (\language73). Reported on input line 108.
+))
+(C:\Users\Electronics Engineer\AppData\Local\Programs\MiKTeX\tex/latex/blindtex
+t\blindtext.sty
+Package: blindtext 2012/01/06 V2.0 blindtext-Package
+
+(C:\Users\Electronics Engineer\AppData\Local\Programs\MiKTeX\tex/latex/tools\xs
+pace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+\c@blindtext=\count285
+\c@Blindtext=\count286
+\c@blind@countparstart=\count287
+\blind@countxx=\count288
+\blindtext@numBlindtext=\count289
+\blind@countyy=\count290
+\c@blindlist=\count291
+\c@blindlistlevel=\count292
+\c@blindlist@level=\count293
+\blind@listitem=\count294
+\c@blind@listcount=\count295
+\c@blind@levelcount=\count296
+\blind@mathformula=\count297
+\blind@Mathformula=\count298
+\c@blind@randomcount=\count299
+\c@blind@randommax=\count300
+\c@blind@pangramcount=\count301
+\c@blind@pangrammax=\count302
+)
+(C:\Users\Electronics Engineer\AppData\Local\Programs\MiKTeX\tex/latex/graphics
+\graphicx.sty
+Package: graphicx 2024/12/31 v1.2e Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\Electronics Engineer\AppData\Local\Programs\MiKTeX\tex/latex/graphics
+\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+(C:\Users\Electronics Engineer\AppData\Local\Programs\MiKTeX\tex/latex/graphics
+\graphics.sty
+Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\Electronics Engineer\AppData\Local\Programs\MiKTeX\tex/latex/graphics
+\trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+)
+(C:\Users\Electronics Engineer\AppData\Local\Programs\MiKTeX\tex/latex/graphics
+-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 106.
+
+(C:\Users\Electronics Engineer\AppData\Local\Programs\MiKTeX\tex/latex/graphics
+-def\pdftex.def
+File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen150
+\Gin@req@width=\dimen151
+)
+(C:\Users\Electronics Engineer\AppData\Local\Programs\MiKTeX\tex/latex/wrapfig\
+wrapfig.sty
+\wrapoverhang=\dimen152
+\WF@size=\dimen153
+\c@WF@wrappedlines=\count303
+\WF@box=\box53
+\WF@everypar=\toks18
+Package: wrapfig 2003/01/31  v 3.6
+)
+(C:\Users\Electronics Engineer\AppData\Local\Programs\MiKTeX\tex/latex/caption\
+subcaption.sty
+Package: subcaption 2023/07/28 v1.6b Sub-captions (AR)
+
+(C:\Users\Electronics Engineer\AppData\Local\Programs\MiKTeX\tex/latex/caption\
+caption.sty
+Package: caption 2023/08/05 v3.6o Customizing captions (AR)
+
+(C:\Users\Electronics Engineer\AppData\Local\Programs\MiKTeX\tex/latex/caption\
+caption3.sty
+Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
+\caption@tempdima=\dimen154
+\captionmargin=\dimen155
+\caption@leftmargin=\dimen156
+\caption@rightmargin=\dimen157
+\caption@width=\dimen158
+\caption@indent=\dimen159
+\caption@parindent=\dimen160
+\caption@hangindent=\dimen161
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count304
+\c@continuedfloat=\count305
+Package caption Info: wrapfig package is loaded.
+)
+Package caption Info: New subtype `subfigure' on input line 238.
+\c@subfigure=\count306
+Package caption Info: New subtype `subtable' on input line 238.
+\c@subtable=\count307
+)
+(C:\Users\Electronics Engineer\AppData\Local\Programs\MiKTeX\tex/latex/l3backen
+d\l3backend-pdftex.def
+File: l3backend-pdftex.def 2025-06-09 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count308
+) (58-embedding-a-picture-within-text.aux)
+\openout1 = `58-embedding-a-picture-within-text.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+
+(C:\Users\Electronics Engineer\AppData\Local\Programs\MiKTeX\tex/context/base/m
+kii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count309
+\scratchdimen=\dimen162
+\scratchbox=\box54
+\nofMPsegments=\count310
+\nofMParguments=\count311
+\everyMPshowfont=\toks19
+\MPscratchCnt=\count312
+\MPscratchDim=\dimen163
+\MPnumerator=\count313
+\makeMPintoPDFobject=\count314
+\everyMPtoPDFconversion=\toks20
+)
+(C:\Users\Electronics Engineer\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf
+-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\Electronics Engineer\AppData\Local\Programs\MiKTeX\tex/latex/00miktex
+\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+
+
+Package caption Warning: \setcaptionsubtype
+(caption)                outside box or environment on input line 14.
+See the caption package documentation for explanation.
+
+
+Package caption Warning: \subcaption
+(caption)                outside box or environment on input line 14.
+See the caption package documentation for explanation.
+
+
+Underfull \hbox (badness 1014) in paragraph at lines 20--20
+\OT1/cmr/m/n/10 some non-sense like ``Huardest
+ []
+
+
+
+[1
+
+{C:/Users/Electronics Engineer/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map
+}]
+
+[2] (58-embedding-a-picture-within-text.aux)
+ ***********
+LaTeX2e <2025-06-01> patch level 1
+L3 programming layer <2025-08-13>
+ ***********
+ ) 
+Here is how much of TeX's memory you used:
+ 4097 strings out of 468132
+ 75727 string characters out of 5423396
+ 490943 words of memory out of 5000000
+ 32719 multiletter control sequences out of 15000+600000
+ 627729 words of font info for 43 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 67i,5n,77p,329b,345s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/Electronics Engineer/AppData/Local/Programs/MiKTeX/fonts/type1/publ
+ic/amsfonts/cm/cmbx12.pfb><C:/Users/Electronics Engineer/AppData/Local/Programs
+/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Electronics Engineer
+/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb>
+Output written on 58-embedding-a-picture-within-text.pdf (2 pages, 45625 bytes)
+.
+PDF statistics:
+ 24 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+

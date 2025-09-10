@@ -1,0 +1,247 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.9.7)  10 SEP 2025 12:10
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./57-letting-a-figure-float.tex
+(57-letting-a-figure-float.tex
+LaTeX2e <2025-06-01> patch level 1
+L3 programming layer <2025-08-13>
+
+(C:\Users\Electronics Engineer\AppData\Local\Programs\MiKTeX\tex/latex/base\art
+icle.cls
+Document Class: article 2025/01/22 v1.4n Standard LaTeX document class
+
+(C:\Users\Electronics Engineer\AppData\Local\Programs\MiKTeX\tex/latex/base\siz
+e10.clo
+File: size10.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count275
+\c@section=\count276
+\c@subsection=\count277
+\c@subsubsection=\count278
+\c@paragraph=\count279
+\c@subparagraph=\count280
+\c@figure=\count281
+\c@table=\count282
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen148
+)
+(C:\Users\Electronics Engineer\AppData\Local\Programs\MiKTeX\tex/generic/babel\
+babel.sty
+Package: babel 2025/08/03 v25.12 The multilingual framework for LuaLaTeX, pdfLa
+TeX and XeLaTeX
+\babel@savecnt=\count283
+LaTeX Encoding Info:    Redeclaring text command \ij (encoding OT1) on input li
+ne 2045.
+LaTeX Encoding Info:    Redeclaring text command \IJ (encoding OT1) on input li
+ne 2047.
+LaTeX Encoding Info:    Redeclaring text command \ij (encoding T1) on input lin
+e 2049.
+LaTeX Encoding Info:    Redeclaring text command \IJ (encoding T1) on input lin
+e 2050.
+LaTeX Encoding Info:    Ignoring declaration for text command \ij (encoding ?) 
+on input line 2051.
+LaTeX Encoding Info:    Ignoring declaration for text command \IJ (encoding ?) 
+on input line 2053.
+LaTeX Encoding Info:    Ignoring declaration for text command \SS (encoding ?) 
+on input line 2078.
+\U@D=\dimen149
+\l@unhyphenated=\language79
+
+(C:\Users\Electronics Engineer\AppData\Local\Programs\MiKTeX\tex/generic/babel\
+txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count284
+
+*************************************
+* Local config file bblopts.cfg used
+*
+
+(C:\Users\Electronics Engineer\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bb
+lopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(C:\Users\Electronics Engineer\AppData\Local\Programs\MiKTeX\tex/latex/babel-en
+glish\english.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+
+(C:\Users\Electronics Engineer\AppData\Local\Programs\MiKTeX\tex/generic/babel/
+locale/en\babel-english.tex
+Package babel Info: Importing font and identification data for english
+(babel)             from babel-en.ini. Reported on input line 12.
+)
+Package babel Info: Hyphen rules for 'canadian' set to \l@english
+(babel)             (\language0). Reported on input line 102.
+Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
+(babel)             (\language73). Reported on input line 105.
+Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
+(babel)             (\language73). Reported on input line 108.
+))
+(C:\Users\Electronics Engineer\AppData\Local\Programs\MiKTeX\tex/latex/blindtex
+t\blindtext.sty
+Package: blindtext 2012/01/06 V2.0 blindtext-Package
+
+(C:\Users\Electronics Engineer\AppData\Local\Programs\MiKTeX\tex/latex/tools\xs
+pace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+\c@blindtext=\count285
+\c@Blindtext=\count286
+\c@blind@countparstart=\count287
+\blind@countxx=\count288
+\blindtext@numBlindtext=\count289
+\blind@countyy=\count290
+\c@blindlist=\count291
+\c@blindlistlevel=\count292
+\c@blindlist@level=\count293
+\blind@listitem=\count294
+\c@blind@listcount=\count295
+\c@blind@levelcount=\count296
+\blind@mathformula=\count297
+\blind@Mathformula=\count298
+\c@blind@randomcount=\count299
+\c@blind@randommax=\count300
+\c@blind@pangramcount=\count301
+\c@blind@pangrammax=\count302
+)
+(C:\Users\Electronics Engineer\AppData\Local\Programs\MiKTeX\tex/latex/graphics
+\graphicx.sty
+Package: graphicx 2024/12/31 v1.2e Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\Electronics Engineer\AppData\Local\Programs\MiKTeX\tex/latex/graphics
+\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+(C:\Users\Electronics Engineer\AppData\Local\Programs\MiKTeX\tex/latex/graphics
+\graphics.sty
+Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\Electronics Engineer\AppData\Local\Programs\MiKTeX\tex/latex/graphics
+\trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+)
+(C:\Users\Electronics Engineer\AppData\Local\Programs\MiKTeX\tex/latex/graphics
+-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 106.
+
+(C:\Users\Electronics Engineer\AppData\Local\Programs\MiKTeX\tex/latex/graphics
+-def\pdftex.def
+File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen150
+\Gin@req@width=\dimen151
+)
+(C:\Users\Electronics Engineer\AppData\Local\Programs\MiKTeX\tex/latex/tools\af
+terpage.sty
+Package: afterpage 2023/07/04 v1.08 After-Page Package (DPC)
+\AP@output=\toks18
+\AP@partial=\box53
+\AP@footins=\box54
+)
+(C:\Users\Electronics Engineer\AppData\Local\Programs\MiKTeX\tex/latex/placeins
+\placeins.sty
+Package: placeins 2005/04/18  v 2.2
+)
+(C:\Users\Electronics Engineer\AppData\Local\Programs\MiKTeX\tex/latex/capt-of\
+capt-of.sty
+Package: capt-of 2009/12/29 v0.2 standard captions outside of floats
+)
+(C:\Users\Electronics Engineer\AppData\Local\Programs\MiKTeX\tex/latex/float\fl
+oat.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count303
+\float@exts=\toks19
+\float@box=\box55
+\@float@everytoks=\toks20
+\@floatcapt=\box56
+)
+(C:\Users\Electronics Engineer\AppData\Local\Programs\MiKTeX\tex/latex/l3backen
+d\l3backend-pdftex.def
+File: l3backend-pdftex.def 2025-06-09 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count304
+) (57-letting-a-figure-float.aux)
+\openout1 = `57-letting-a-figure-float.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+
+(C:\Users\Electronics Engineer\AppData\Local\Programs\MiKTeX\tex/context/base/m
+kii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count305
+\scratchdimen=\dimen152
+\scratchbox=\box57
+\nofMPsegments=\count306
+\nofMParguments=\count307
+\everyMPshowfont=\toks21
+\MPscratchCnt=\count308
+\MPscratchDim=\dimen153
+\MPnumerator=\count309
+\makeMPintoPDFobject=\count310
+\everyMPtoPDFconversion=\toks22
+)
+(C:\Users\Electronics Engineer\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf
+-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\Electronics Engineer\AppData\Local\Programs\MiKTeX\tex/latex/00miktex
+\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+
+[1
+
+{C:/Users/Electronics Engineer/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map
+}]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 30.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 30.
+
+
+[2
+
+]
+
+[3] (57-letting-a-figure-float.aux)
+ ***********
+LaTeX2e <2025-06-01> patch level 1
+L3 programming layer <2025-08-13>
+ ***********
+ ) 
+Here is how much of TeX's memory you used:
+ 2721 strings out of 468132
+ 49566 string characters out of 5423396
+ 465580 words of memory out of 5000000
+ 31342 multiletter control sequences out of 15000+600000
+ 627430 words of font info for 42 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 59i,5n,65p,246b,194s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/Electronics Engineer/AppData/Local/Programs/MiKTeX/fonts/type1/publ
+ic/amsfonts/cm/cmbx12.pfb><C:/Users/Electronics Engineer/AppData/Local/Programs
+/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb>
+Output written on 57-letting-a-figure-float.pdf (3 pages, 34088 bytes).
+PDF statistics:
+ 22 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+

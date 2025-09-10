@@ -59,3 +59,17 @@
 46. [shrinking our tutorial]()
 47. [modifying lists using enumitem]()
 48. [explaining capabilities of packages]()
+
+# Chapter 5 : Creating Tables and Inserting Pictures
+
+49. [lining up information using the tabbing environment]()
+50. [adding nicer horizontal lines with the booktabs package]()
+51. [merging cells]()
+52. [using the array package]()
+53. [merging cells using the multirow package]()
+54. [adding a caption to our font table]()
+55. [customizing captions]()
+56. [including a picture]()
+57. [letting a figure float]()
+58. [embedding a picture within text]()
+

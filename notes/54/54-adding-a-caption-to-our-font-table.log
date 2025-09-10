@@ -1,0 +1,143 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.9.7)  10 SEP 2025 11:24
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./54-adding-a-caption-to-our-font-table.tex
+(54-adding-a-caption-to-our-font-table.tex
+LaTeX2e <2025-06-01> patch level 1
+L3 programming layer <2025-08-13>
+
+(C:\Users\Electronics Engineer\AppData\Local\Programs\MiKTeX\tex/latex/base\art
+icle.cls
+Document Class: article 2025/01/22 v1.4n Standard LaTeX document class
+
+(C:\Users\Electronics Engineer\AppData\Local\Programs\MiKTeX\tex/latex/base\siz
+e10.clo
+File: size10.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count275
+\c@section=\count276
+\c@subsection=\count277
+\c@subsubsection=\count278
+\c@paragraph=\count279
+\c@subparagraph=\count280
+\c@figure=\count281
+\c@table=\count282
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen148
+)
+(C:\Users\Electronics Engineer\AppData\Local\Programs\MiKTeX\tex/latex/tools\ar
+ray.sty
+Package: array 2025/06/08 v2.6j Tabular extension package (FMi)
+\col@sep=\dimen149
+\ar@mcellbox=\box53
+\extrarowheight=\dimen150
+\NC@list=\toks17
+\extratabsurround=\skip51
+\backup@length=\skip52
+\ar@cellbox=\box54
+)
+(C:\Users\Electronics Engineer\AppData\Local\Programs\MiKTeX\tex/latex/booktabs
+\booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen151
+\lightrulewidth=\dimen152
+\cmidrulewidth=\dimen153
+\belowrulesep=\dimen154
+\belowbottomsep=\dimen155
+\aboverulesep=\dimen156
+\abovetopsep=\dimen157
+\cmidrulesep=\dimen158
+\cmidrulekern=\dimen159
+\defaultaddspace=\dimen160
+\@cmidla=\count283
+\@cmidlb=\count284
+\@aboverulesep=\dimen161
+\@belowrulesep=\dimen162
+\@thisruleclass=\count285
+\@lastruleclass=\count286
+\@thisrulewidth=\dimen163
+)
+(C:\Users\Electronics Engineer\AppData\Local\Programs\MiKTeX\tex/latex/multirow
+\multirow.sty
+Package: multirow 2024/11/12 v2.9 Span multiple rows of a table
+\multirow@colwidth=\skip53
+\multirow@cntb=\count287
+\multirow@dima=\skip54
+\bigstrutjot=\dimen164
+)
+(C:\Users\Electronics Engineer\AppData\Local\Programs\MiKTeX\tex/latex/l3backen
+d\l3backend-pdftex.def
+File: l3backend-pdftex.def 2025-06-09 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count288
+)
+No file 54-adding-a-caption-to-our-font-table.aux.
+\openout1 = `54-adding-a-caption-to-our-font-table.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 11.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 11.
+LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 1
+9.
+
+(C:\Users\Electronics Engineer\AppData\Local\Programs\MiKTeX\tex/latex/base\oms
+cmr.fd
+File: omscmr.fd 2024/11/19 v2.5n Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 19.
+
+
+[1{C:/Users/Electronics Engineer/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.m
+ap}] (54-adding-a-caption-to-our-font-table.aux)
+ ***********
+LaTeX2e <2025-06-01> patch level 1
+L3 programming layer <2025-08-13>
+ ***********
+ ) 
+Here is how much of TeX's memory you used:
+ 685 strings out of 468132
+ 12892 string characters out of 5423396
+ 435301 words of memory out of 5000000
+ 29364 multiletter control sequences out of 15000+600000
+ 629256 words of font info for 48 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 35i,10n,38p,194b,287s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/Electronics Engineer/AppData/Local/Programs/MiKTeX/fonts/type1/publ
+ic/amsfonts/cm/cmbx10.pfb><C:/Users/Electronics Engineer/AppData/Local/Programs
+/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/Electronics Engine
+er/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/U
+sers/Electronics Engineer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsf
+onts/cm/cmr7.pfb><C:/Users/Electronics Engineer/AppData/Local/Programs/MiKTeX/f
+onts/type1/public/amsfonts/cm/cmsl10.pfb><C:/Users/Electronics Engineer/AppData
+/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/Users/Elec
+tronics Engineer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/c
+mssbx10.pfb><C:/Users/Electronics Engineer/AppData/Local/Programs/MiKTeX/fonts/
+type1/public/amsfonts/cm/cmssi10.pfb><C:/Users/Electronics Engineer/AppData/Loc
+al/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Electron
+ics Engineer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti1
+0.pfb><C:/Users/Electronics Engineer/AppData/Local/Programs/MiKTeX/fonts/type1/
+public/amsfonts/cm/cmtt10.pfb>
+Output written on 54-adding-a-caption-to-our-font-table.pdf (1 page, 124108 byt
+es).
+PDF statistics:
+ 61 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
